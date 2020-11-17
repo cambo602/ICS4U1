@@ -15,7 +15,7 @@ public class C_Comments {
     
     System.out.println("You were born in 1995");
 
-   // Sun Microsystems announced the release of Java in 1995
+   // Sun Microsystems announced the release of Java in 1995.
     
     System.out.println("You were created by James Gosling");
     
